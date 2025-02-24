@@ -1,4 +1,4 @@
-rom flask import Flask, request,
+from flask import Flask, request,
 import json
 import telebot
 from binance.spot import spot as client  
